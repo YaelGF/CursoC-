@@ -1,0 +1,14 @@
+E:\Curso c\Variables\While\bin\Debug\netcoreapp3.1\While.exe
+E:\Curso c\Variables\While\bin\Debug\netcoreapp3.1\While.deps.json
+E:\Curso c\Variables\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.json
+E:\Curso c\Variables\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.dev.json
+E:\Curso c\Variables\While\bin\Debug\netcoreapp3.1\While.dll
+E:\Curso c\Variables\While\bin\Debug\netcoreapp3.1\While.pdb
+E:\Curso c\Variables\While\obj\Debug\netcoreapp3.1\While.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso c\Variables\While\obj\Debug\netcoreapp3.1\While.AssemblyInfoInputs.cache
+E:\Curso c\Variables\While\obj\Debug\netcoreapp3.1\While.AssemblyInfo.cs
+E:\Curso c\Variables\While\obj\Debug\netcoreapp3.1\While.csproj.CoreCompileInputs.cache
+E:\Curso c\Variables\While\obj\Debug\netcoreapp3.1\While.dll
+E:\Curso c\Variables\While\obj\Debug\netcoreapp3.1\While.pdb
+E:\Curso c\Variables\While\obj\Debug\netcoreapp3.1\While.genruntimeconfig.cache
+E:\Curso c\Variables\While\obj\Debug\netcoreapp3.1\While.csproj.AssemblyReference.cache

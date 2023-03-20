@@ -1,0 +1,14 @@
+E:\Curso c\Variables\ClasesYObjetos\bin\Debug\netcoreapp3.1\ClasesYObjetos.exe
+E:\Curso c\Variables\ClasesYObjetos\bin\Debug\netcoreapp3.1\ClasesYObjetos.deps.json
+E:\Curso c\Variables\ClasesYObjetos\bin\Debug\netcoreapp3.1\ClasesYObjetos.runtimeconfig.json
+E:\Curso c\Variables\ClasesYObjetos\bin\Debug\netcoreapp3.1\ClasesYObjetos.runtimeconfig.dev.json
+E:\Curso c\Variables\ClasesYObjetos\bin\Debug\netcoreapp3.1\ClasesYObjetos.dll
+E:\Curso c\Variables\ClasesYObjetos\bin\Debug\netcoreapp3.1\ClasesYObjetos.pdb
+E:\Curso c\Variables\ClasesYObjetos\obj\Debug\netcoreapp3.1\ClasesYObjetos.csproj.AssemblyReference.cache
+E:\Curso c\Variables\ClasesYObjetos\obj\Debug\netcoreapp3.1\ClasesYObjetos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso c\Variables\ClasesYObjetos\obj\Debug\netcoreapp3.1\ClasesYObjetos.AssemblyInfoInputs.cache
+E:\Curso c\Variables\ClasesYObjetos\obj\Debug\netcoreapp3.1\ClasesYObjetos.AssemblyInfo.cs
+E:\Curso c\Variables\ClasesYObjetos\obj\Debug\netcoreapp3.1\ClasesYObjetos.csproj.CoreCompileInputs.cache
+E:\Curso c\Variables\ClasesYObjetos\obj\Debug\netcoreapp3.1\ClasesYObjetos.dll
+E:\Curso c\Variables\ClasesYObjetos\obj\Debug\netcoreapp3.1\ClasesYObjetos.pdb
+E:\Curso c\Variables\ClasesYObjetos\obj\Debug\netcoreapp3.1\ClasesYObjetos.genruntimeconfig.cache

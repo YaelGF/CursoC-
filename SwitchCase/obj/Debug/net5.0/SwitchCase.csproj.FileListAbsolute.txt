@@ -1,0 +1,16 @@
+E:\Curso c\Variables\SwitchCase\bin\Debug\net5.0\SwitchCase.exe
+E:\Curso c\Variables\SwitchCase\bin\Debug\net5.0\SwitchCase.deps.json
+E:\Curso c\Variables\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.json
+E:\Curso c\Variables\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.dev.json
+E:\Curso c\Variables\SwitchCase\bin\Debug\net5.0\SwitchCase.dll
+E:\Curso c\Variables\SwitchCase\bin\Debug\net5.0\ref\SwitchCase.dll
+E:\Curso c\Variables\SwitchCase\bin\Debug\net5.0\SwitchCase.pdb
+E:\Curso c\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.AssemblyReference.cache
+E:\Curso c\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso c\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfoInputs.cache
+E:\Curso c\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfo.cs
+E:\Curso c\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.CoreCompileInputs.cache
+E:\Curso c\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.dll
+E:\Curso c\Variables\SwitchCase\obj\Debug\net5.0\ref\SwitchCase.dll
+E:\Curso c\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.pdb
+E:\Curso c\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.genruntimeconfig.cache

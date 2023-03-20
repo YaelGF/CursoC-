@@ -1,0 +1,13 @@
+E:\Curso c\Variables\Foreach\bin\Debug\netcoreapp3.1\Foreach.exe
+E:\Curso c\Variables\Foreach\bin\Debug\netcoreapp3.1\Foreach.deps.json
+E:\Curso c\Variables\Foreach\bin\Debug\netcoreapp3.1\Foreach.runtimeconfig.json
+E:\Curso c\Variables\Foreach\bin\Debug\netcoreapp3.1\Foreach.runtimeconfig.dev.json
+E:\Curso c\Variables\Foreach\bin\Debug\netcoreapp3.1\Foreach.dll
+E:\Curso c\Variables\Foreach\bin\Debug\netcoreapp3.1\Foreach.pdb
+E:\Curso c\Variables\Foreach\obj\Debug\netcoreapp3.1\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso c\Variables\Foreach\obj\Debug\netcoreapp3.1\Foreach.AssemblyInfoInputs.cache
+E:\Curso c\Variables\Foreach\obj\Debug\netcoreapp3.1\Foreach.AssemblyInfo.cs
+E:\Curso c\Variables\Foreach\obj\Debug\netcoreapp3.1\Foreach.csproj.CoreCompileInputs.cache
+E:\Curso c\Variables\Foreach\obj\Debug\netcoreapp3.1\Foreach.dll
+E:\Curso c\Variables\Foreach\obj\Debug\netcoreapp3.1\Foreach.pdb
+E:\Curso c\Variables\Foreach\obj\Debug\netcoreapp3.1\Foreach.genruntimeconfig.cache

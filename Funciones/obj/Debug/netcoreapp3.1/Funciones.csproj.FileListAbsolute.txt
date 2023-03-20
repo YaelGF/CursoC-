@@ -1,0 +1,14 @@
+E:\Curso c\Variables\Funciones\bin\Debug\netcoreapp3.1\Funciones.exe
+E:\Curso c\Variables\Funciones\bin\Debug\netcoreapp3.1\Funciones.deps.json
+E:\Curso c\Variables\Funciones\bin\Debug\netcoreapp3.1\Funciones.runtimeconfig.json
+E:\Curso c\Variables\Funciones\bin\Debug\netcoreapp3.1\Funciones.runtimeconfig.dev.json
+E:\Curso c\Variables\Funciones\bin\Debug\netcoreapp3.1\Funciones.dll
+E:\Curso c\Variables\Funciones\bin\Debug\netcoreapp3.1\Funciones.pdb
+E:\Curso c\Variables\Funciones\obj\Debug\netcoreapp3.1\Funciones.csproj.AssemblyReference.cache
+E:\Curso c\Variables\Funciones\obj\Debug\netcoreapp3.1\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso c\Variables\Funciones\obj\Debug\netcoreapp3.1\Funciones.AssemblyInfoInputs.cache
+E:\Curso c\Variables\Funciones\obj\Debug\netcoreapp3.1\Funciones.AssemblyInfo.cs
+E:\Curso c\Variables\Funciones\obj\Debug\netcoreapp3.1\Funciones.csproj.CoreCompileInputs.cache
+E:\Curso c\Variables\Funciones\obj\Debug\netcoreapp3.1\Funciones.dll
+E:\Curso c\Variables\Funciones\obj\Debug\netcoreapp3.1\Funciones.pdb
+E:\Curso c\Variables\Funciones\obj\Debug\netcoreapp3.1\Funciones.genruntimeconfig.cache

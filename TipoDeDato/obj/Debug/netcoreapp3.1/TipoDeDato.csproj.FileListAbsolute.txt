@@ -1,0 +1,14 @@
+E:\Curso c\Variables\TipoDeDato\bin\Debug\netcoreapp3.1\TipoDeDato.exe
+E:\Curso c\Variables\TipoDeDato\bin\Debug\netcoreapp3.1\TipoDeDato.deps.json
+E:\Curso c\Variables\TipoDeDato\bin\Debug\netcoreapp3.1\TipoDeDato.runtimeconfig.json
+E:\Curso c\Variables\TipoDeDato\bin\Debug\netcoreapp3.1\TipoDeDato.runtimeconfig.dev.json
+E:\Curso c\Variables\TipoDeDato\bin\Debug\netcoreapp3.1\TipoDeDato.dll
+E:\Curso c\Variables\TipoDeDato\bin\Debug\netcoreapp3.1\TipoDeDato.pdb
+E:\Curso c\Variables\TipoDeDato\obj\Debug\netcoreapp3.1\TipoDeDato.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso c\Variables\TipoDeDato\obj\Debug\netcoreapp3.1\TipoDeDato.AssemblyInfoInputs.cache
+E:\Curso c\Variables\TipoDeDato\obj\Debug\netcoreapp3.1\TipoDeDato.AssemblyInfo.cs
+E:\Curso c\Variables\TipoDeDato\obj\Debug\netcoreapp3.1\TipoDeDato.csproj.CoreCompileInputs.cache
+E:\Curso c\Variables\TipoDeDato\obj\Debug\netcoreapp3.1\TipoDeDato.dll
+E:\Curso c\Variables\TipoDeDato\obj\Debug\netcoreapp3.1\TipoDeDato.pdb
+E:\Curso c\Variables\TipoDeDato\obj\Debug\netcoreapp3.1\TipoDeDato.genruntimeconfig.cache
+E:\Curso c\Variables\TipoDeDato\obj\Debug\netcoreapp3.1\TipoDeDato.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+E:\Curso c\Variables\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+E:\Curso c\Variables\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+E:\Curso c\Variables\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+E:\Curso c\Variables\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+E:\Curso c\Variables\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+E:\Curso c\Variables\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+E:\Curso c\Variables\Generics\obj\Debug\netcoreapp3.1\Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso c\Variables\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+E:\Curso c\Variables\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+E:\Curso c\Variables\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+E:\Curso c\Variables\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+E:\Curso c\Variables\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+E:\Curso c\Variables\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Curso c\Variables\json\bin\Debug\netcoreapp3.1\json.exe
+E:\Curso c\Variables\json\bin\Debug\netcoreapp3.1\json.deps.json
+E:\Curso c\Variables\json\bin\Debug\netcoreapp3.1\json.runtimeconfig.json
+E:\Curso c\Variables\json\bin\Debug\netcoreapp3.1\json.runtimeconfig.dev.json
+E:\Curso c\Variables\json\bin\Debug\netcoreapp3.1\json.dll
+E:\Curso c\Variables\json\bin\Debug\netcoreapp3.1\json.pdb
+E:\Curso c\Variables\json\obj\Debug\netcoreapp3.1\json.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso c\Variables\json\obj\Debug\netcoreapp3.1\json.AssemblyInfoInputs.cache
+E:\Curso c\Variables\json\obj\Debug\netcoreapp3.1\json.AssemblyInfo.cs
+E:\Curso c\Variables\json\obj\Debug\netcoreapp3.1\json.csproj.CoreCompileInputs.cache
+E:\Curso c\Variables\json\obj\Debug\netcoreapp3.1\json.dll
+E:\Curso c\Variables\json\obj\Debug\netcoreapp3.1\json.pdb
+E:\Curso c\Variables\json\obj\Debug\netcoreapp3.1\json.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Curso c\Variables\Sobreescritura\bin\Debug\netcoreapp3.1\Sobreescritura.exe
+E:\Curso c\Variables\Sobreescritura\bin\Debug\netcoreapp3.1\Sobreescritura.deps.json
+E:\Curso c\Variables\Sobreescritura\bin\Debug\netcoreapp3.1\Sobreescritura.runtimeconfig.json
+E:\Curso c\Variables\Sobreescritura\bin\Debug\netcoreapp3.1\Sobreescritura.runtimeconfig.dev.json
+E:\Curso c\Variables\Sobreescritura\bin\Debug\netcoreapp3.1\Sobreescritura.dll
+E:\Curso c\Variables\Sobreescritura\bin\Debug\netcoreapp3.1\Sobreescritura.pdb
+E:\Curso c\Variables\Sobreescritura\obj\Debug\netcoreapp3.1\Sobreescritura.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso c\Variables\Sobreescritura\obj\Debug\netcoreapp3.1\Sobreescritura.AssemblyInfoInputs.cache
+E:\Curso c\Variables\Sobreescritura\obj\Debug\netcoreapp3.1\Sobreescritura.AssemblyInfo.cs
+E:\Curso c\Variables\Sobreescritura\obj\Debug\netcoreapp3.1\Sobreescritura.csproj.CoreCompileInputs.cache
+E:\Curso c\Variables\Sobreescritura\obj\Debug\netcoreapp3.1\Sobreescritura.dll
+E:\Curso c\Variables\Sobreescritura\obj\Debug\netcoreapp3.1\Sobreescritura.pdb
+E:\Curso c\Variables\Sobreescritura\obj\Debug\netcoreapp3.1\Sobreescritura.genruntimeconfig.cache

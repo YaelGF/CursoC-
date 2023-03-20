@@ -1,0 +1,13 @@
+E:\Curso c\Variables\Static\bin\Debug\netcoreapp3.1\Static.exe
+E:\Curso c\Variables\Static\bin\Debug\netcoreapp3.1\Static.deps.json
+E:\Curso c\Variables\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.json
+E:\Curso c\Variables\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.dev.json
+E:\Curso c\Variables\Static\bin\Debug\netcoreapp3.1\Static.dll
+E:\Curso c\Variables\Static\bin\Debug\netcoreapp3.1\Static.pdb
+E:\Curso c\Variables\Static\obj\Debug\netcoreapp3.1\Static.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso c\Variables\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfoInputs.cache
+E:\Curso c\Variables\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfo.cs
+E:\Curso c\Variables\Static\obj\Debug\netcoreapp3.1\Static.csproj.CoreCompileInputs.cache
+E:\Curso c\Variables\Static\obj\Debug\netcoreapp3.1\Static.dll
+E:\Curso c\Variables\Static\obj\Debug\netcoreapp3.1\Static.pdb
+E:\Curso c\Variables\Static\obj\Debug\netcoreapp3.1\Static.genruntimeconfig.cache

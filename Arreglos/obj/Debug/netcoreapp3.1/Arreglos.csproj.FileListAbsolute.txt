@@ -1,0 +1,14 @@
+E:\Curso c\Variables\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.exe
+E:\Curso c\Variables\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.deps.json
+E:\Curso c\Variables\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.runtimeconfig.json
+E:\Curso c\Variables\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.runtimeconfig.dev.json
+E:\Curso c\Variables\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.dll
+E:\Curso c\Variables\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.pdb
+E:\Curso c\Variables\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.csproj.AssemblyReference.cache
+E:\Curso c\Variables\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso c\Variables\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.AssemblyInfoInputs.cache
+E:\Curso c\Variables\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.AssemblyInfo.cs
+E:\Curso c\Variables\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.csproj.CoreCompileInputs.cache
+E:\Curso c\Variables\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.dll
+E:\Curso c\Variables\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.pdb
+E:\Curso c\Variables\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.genruntimeconfig.cache

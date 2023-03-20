@@ -1,0 +1,14 @@
+E:\Curso c\Variables\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+E:\Curso c\Variables\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+E:\Curso c\Variables\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+E:\Curso c\Variables\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+E:\Curso c\Variables\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+E:\Curso c\Variables\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+E:\Curso c\Variables\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.AssemblyReference.cache
+E:\Curso c\Variables\Interface\obj\Debug\netcoreapp3.1\Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso c\Variables\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+E:\Curso c\Variables\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+E:\Curso c\Variables\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+E:\Curso c\Variables\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+E:\Curso c\Variables\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+E:\Curso c\Variables\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache

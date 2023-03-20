@@ -1,0 +1,13 @@
+E:\Curso c\Variables\Herencia\bin\Debug\netcoreapp3.1\Herencia.exe
+E:\Curso c\Variables\Herencia\bin\Debug\netcoreapp3.1\Herencia.deps.json
+E:\Curso c\Variables\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.json
+E:\Curso c\Variables\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.dev.json
+E:\Curso c\Variables\Herencia\bin\Debug\netcoreapp3.1\Herencia.dll
+E:\Curso c\Variables\Herencia\bin\Debug\netcoreapp3.1\Herencia.pdb
+E:\Curso c\Variables\Herencia\obj\Debug\netcoreapp3.1\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso c\Variables\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfoInputs.cache
+E:\Curso c\Variables\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfo.cs
+E:\Curso c\Variables\Herencia\obj\Debug\netcoreapp3.1\Herencia.csproj.CoreCompileInputs.cache
+E:\Curso c\Variables\Herencia\obj\Debug\netcoreapp3.1\Herencia.dll
+E:\Curso c\Variables\Herencia\obj\Debug\netcoreapp3.1\Herencia.pdb
+E:\Curso c\Variables\Herencia\obj\Debug\netcoreapp3.1\Herencia.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\Curso c\Variables\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.exe
+E:\Curso c\Variables\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.deps.json
+E:\Curso c\Variables\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.runtimeconfig.json
+E:\Curso c\Variables\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.runtimeconfig.dev.json
+E:\Curso c\Variables\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.dll
+E:\Curso c\Variables\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.pdb
+E:\Curso c\Variables\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.csproj.AssemblyReference.cache
+E:\Curso c\Variables\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso c\Variables\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.AssemblyInfoInputs.cache
+E:\Curso c\Variables\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.AssemblyInfo.cs
+E:\Curso c\Variables\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.csproj.CoreCompileInputs.cache
+E:\Curso c\Variables\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.dll
+E:\Curso c\Variables\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.pdb
+E:\Curso c\Variables\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.genruntimeconfig.cache

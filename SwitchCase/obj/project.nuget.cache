@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGupO5hscT5W2jv477csv9iWrylYVsWsATjGtzHtHL8VjNEK+l1zWRS6GBGHaGnjmNCJ52Dxy5DX83LKTsHh3Q==",
+  "success": true,
+  "projectFilePath": "E:\\Curso c\\Variables\\SwitchCase\\SwitchCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yael\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Yael\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yael\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yael\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
