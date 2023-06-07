@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2c2dQqvq4+SLSz32OKxBvDv5ECNiE8GM9d0eJMS4O0bLOA+nqMWjNPF3pJ6M5vordWyPF+diC6xALZdAHhcdTg==",
+  "dgSpecHash": "QBWp934yLIJaktkr8gbnwdbhKho8ACkbMQkDkRZMCM40wYv1avl6xaderYi1pvWZry+m/1hwcmZswcIF0CUHdg==",
   "success": true,
-  "projectFilePath": "E:\\Curso c\\Variables\\Foreach\\Foreach.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Foreach/Foreach.csproj",
+  "expectedPackageFiles": [
+    "/Users/yaelgarciafranco/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512"
+  ],
   "logs": []
 }

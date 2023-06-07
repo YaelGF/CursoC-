@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "94jvcdC/MeR/s9UUY/uSfPnUrEgJOFRWgm7IK0N7X6oD1ZxyhFNQuIbO2URRqwmKHPwfsmMsFI5PlbmVBIIMxA==",
+  "dgSpecHash": "bEEJAz1CnHRFpFlFL0YPjH6gQ7CTZhJtFUu2zyyjTwFPc18VLsPNbzwRNNuo9Hq9KDHK7pYwUjpXjHdMlAY4sw==",
   "success": true,
-  "projectFilePath": "E:\\Curso c\\Variables\\TipoDeDato\\TipoDeDato.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/TipoDeDato/TipoDeDato.csproj",
+  "expectedPackageFiles": [
+    "/Users/yaelgarciafranco/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512"
+  ],
   "logs": []
 }

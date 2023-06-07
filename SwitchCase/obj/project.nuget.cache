@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sGupO5hscT5W2jv477csv9iWrylYVsWsATjGtzHtHL8VjNEK+l1zWRS6GBGHaGnjmNCJ52Dxy5DX83LKTsHh3Q==",
+  "dgSpecHash": "gqmcnE3qmJhT6d0whnK+Tkh4v8oEH4aORndUPsdn/QkM9LIS2TVLjTye/YfLEjWLf4nqrk8evXrLgpEUZ8RR9A==",
   "success": true,
-  "projectFilePath": "E:\\Curso c\\Variables\\SwitchCase\\SwitchCase.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Yael\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
-    "C:\\Users\\Yael\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Yael\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Yael\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/SwitchCase/SwitchCase.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

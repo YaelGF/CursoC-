@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Sj0UOZP9wMdTt2EjdhavD1qrj7h/7UgYBIhKmyBIMr544f0n7e1EH1Q4arRAZayNI5d0Q1B33/p9kQfMb+okBA==",
+  "dgSpecHash": "Iiwc8HKe1ZqBJpuwANl/6YOmG+3Qc40/AUApAXgRxzVn6LPFNhiI9mTJLyIfuyO5T4Qe8ioeW2+r/Ef746X7LQ==",
   "success": true,
-  "projectFilePath": "E:\\Curso c\\Variables\\While\\While.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/While/While.csproj",
+  "expectedPackageFiles": [
+    "/Users/yaelgarciafranco/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512"
+  ],
   "logs": []
 }

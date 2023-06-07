@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4D71EAE0-E223-4D21-9FBE-8F9375DBEB51}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sobrecarga PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwitchCase/Program.cs">
+    <Files>
+      <File FileName="Variables/Program.cs" Line="10" Column="29" />
+      <File FileName="SwitchCase/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CursoCsharp" expanded="True">
+            <Node name="Sobrecarga" expanded="True" />
+            <Node name="SwitchCase" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Variables" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Variables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SwitchCase PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

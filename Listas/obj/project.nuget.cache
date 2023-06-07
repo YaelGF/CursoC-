@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DA+MVzwbzxbo6aI/OU6ht6aC908SIr6DsyzPM5BcR6hdz9ER8KUtIeDSIvEHPGq9/RAyh+gzsEZvhVH8la0YSA==",
+  "dgSpecHash": "7bnmPhDpKP+9cUCREPFucxirzXG0/2Dt95uGLYdf1CYS78RNkReF58MnvVvlSq3LWhADoUnW8yb7F4GIih3yyQ==",
   "success": true,
-  "projectFilePath": "E:\\Curso c\\Variables\\Listas\\Listas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Listas/Listas.csproj",
+  "expectedPackageFiles": [
+    "/Users/yaelgarciafranco/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512"
+  ],
   "logs": []
 }

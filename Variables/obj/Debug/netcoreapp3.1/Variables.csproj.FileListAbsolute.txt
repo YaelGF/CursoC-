@@ -1,14 +1,26 @@
-E:\Curso c\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.exe
-E:\Curso c\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
-E:\Curso c\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
-E:\Curso c\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
-E:\Curso c\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.dll
-E:\Curso c\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
-E:\Curso c\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.AssemblyReference.cache
-E:\Curso c\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.GeneratedMSBuildEditorConfig.editorconfig
-E:\Curso c\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
-E:\Curso c\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
-E:\Curso c\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
-E:\Curso c\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.dll
-E:\Curso c\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
-E:\Curso c\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
+E:/Curso c/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.exe
+E:/Curso c/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.deps.json
+E:/Curso c/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.json
+E:/Curso c/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.dev.json
+E:/Curso c/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.dll
+E:/Curso c/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.pdb
+E:/Curso c/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.AssemblyReference.cache
+E:/Curso c/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:/Curso c/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfoInputs.cache
+E:/Curso c/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfo.cs
+E:/Curso c/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.CoreCompileInputs.cache
+E:/Curso c/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.dll
+E:/Curso c/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.pdb
+E:/Curso c/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.genruntimeconfig.cache
+/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Variables/bin/Debug/netcoreapp3.1/Variables.deps.json
+/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.json
+/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.dev.json
+/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Variables/bin/Debug/netcoreapp3.1/Variables.dll
+/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Variables/bin/Debug/netcoreapp3.1/Variables.pdb
+/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.AssemblyReference.cache
+/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfoInputs.cache
+/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfo.cs
+/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.CoreCompileInputs.cache
+/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Variables/obj/Debug/netcoreapp3.1/Variables.dll
+/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Variables/obj/Debug/netcoreapp3.1/Variables.pdb
+/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Variables/obj/Debug/netcoreapp3.1/Variables.genruntimeconfig.cache

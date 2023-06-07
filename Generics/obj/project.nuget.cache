@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QmWMUM5cbC0oVEVCw608whUOWaoKDyVM3I6jMTvWxckEF906r8h97cuw7jQzsLF7vH7vYP58lUuxxu8FNVwNAA==",
+  "dgSpecHash": "GTDQjCKWfJIGUoK42L1/yuaGjnzqCApY0Hq6oH4QfWQ7xnnkn7seOzRIOt7FfLUiTR8GlLe4ozt8+gexatHMDg==",
   "success": true,
-  "projectFilePath": "E:\\Curso c\\Variables\\Generics\\Generics.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Generics/Generics.csproj",
+  "expectedPackageFiles": [
+    "/Users/yaelgarciafranco/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512"
+  ],
   "logs": []
 }

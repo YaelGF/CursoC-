@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "q/GvhJtW+xLCDOUFB4gbGQZ566Zj8Si0MiEqbg7lOg9V8AgjTjo/UA6jwCgF9Ohba7lHBVkUo+Hpn9iy5wXpXQ==",
+  "dgSpecHash": "ns/iP67nqc0cl5/qfPKfGx7vbLjwJKPPJSL3RLZEBzS9E9E9sn0BbBX+nEB0wdq3E4TeJVx6BaI0yqRpYaDpyQ==",
   "success": true,
-  "projectFilePath": "E:\\Curso c\\Variables\\ClasesYObjetos\\ClasesYObjetos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/ClasesYObjetos/ClasesYObjetos.csproj",
+  "expectedPackageFiles": [
+    "/Users/yaelgarciafranco/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512"
+  ],
   "logs": []
 }

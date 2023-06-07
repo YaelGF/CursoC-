@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0gm0ksL9txOawzSVL1cxfu0nuvfAw55ku9dMuFmrFeWmrlqOJXAvCS3OcL8m/ymM153DsqU3pRgOKHFT7q+YYw==",
+  "dgSpecHash": "RTbyPypXGmarAow0xwYVRrMg4RMNiTu9wi9YHUZb6Ba+6QhCUd80e19HqIYc2oHLvZHUyYkfVGQoIWef5bJ7lw==",
   "success": true,
-  "projectFilePath": "E:\\Curso c\\Variables\\SentenciaIfElseIf\\SentenciaIfElseIf.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/SentenciaIfElseIf/SentenciaIfElseIf.csproj",
+  "expectedPackageFiles": [
+    "/Users/yaelgarciafranco/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512"
+  ],
   "logs": []
 }

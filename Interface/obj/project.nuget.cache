@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6lWF0uWqtOv/FIUFv++A+/mTadT37AV7oJnX+nmd7I0jQ3HmQD0NFCgDDaXHttf/JMfEJw5lqpQK9zdcvNlALQ==",
+  "dgSpecHash": "uZKiG5jatYg0vVxu2flInn7+rH3fMw9OqGM8+ssIeMkTEdb2axh5KOVacQ8/blnJ0+o4W4l+EYqkjBjT+f3gLQ==",
   "success": true,
-  "projectFilePath": "E:\\Curso c\\Variables\\Interface\\Interface.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/yaelgarciafranco/Projects/CursoC#/CursoC-/Interface/Interface.csproj",
+  "expectedPackageFiles": [
+    "/Users/yaelgarciafranco/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512"
+  ],
   "logs": []
 }
